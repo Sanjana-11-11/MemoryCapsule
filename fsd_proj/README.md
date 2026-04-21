@@ -85,6 +85,7 @@ Installation & Setup
 🔹 1. Clone the Repository
 
 git clone https://github.com/keerthu-sri/memory_capsule.git
+
 cd fsd_proj
 
 ---
